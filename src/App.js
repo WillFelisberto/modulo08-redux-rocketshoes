@@ -18,11 +18,7 @@ function App() {
         <Header />
         <Routes />
         <GlobalStyle />
-        <ToastContainer
-          autoClose={5000}
-          hideProgressBar
-          position="top-center"
-        />
+        <ToastContainer autoClose={3000} hideProgressBar />
       </BrowserRouter>
     </Provider>
   );
