@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-#### Repositório referente ao modulo 6 do bootcamp gostack 7
+#### Repositório referente ao modulo 8 do bootcamp gostack 7
 
 #### Instalação
 
