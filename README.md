@@ -9,5 +9,3 @@
 1. Execute o `json-server server.json -p 3333` para emular a api de teste;
 
 Divirta-se! :call_me_hand:
-
-[========]
